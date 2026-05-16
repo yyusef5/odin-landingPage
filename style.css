@@ -1,6 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
+    margin: 0px;
 }
 
 ul{
@@ -23,6 +24,7 @@ a{
     display: flex;
     justify-content: space-evenly;
     gap: 40px;
+    margin: 0;
 }
 
 .left-side{
